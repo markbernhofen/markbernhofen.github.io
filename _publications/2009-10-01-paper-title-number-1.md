@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 1"
+title: "A first collective validation of global fluvial flood models for major floods in Nigeria and Mozambique"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/2018-10-01-first-collective-validation
+excerpt: 'This paper identifies model structures and terrain characteristics affecting global flood model performance'
+date: 2018-10-01
+venue: 'Environmental Research Letters'
+paperurl: 'http://iopscience.iop.org/article/10.1088/1748-9326/aae014'
+citation: 'Mark V Bernhofen et al.(2018). &quot;. A first collective validation of global fluvial flood models for major floods in Nigeria and Mozambique&quot; <i>Environmental Research Letters</i>. (13)'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+This paper is the first to collectively validate multiple global flood models against the same observed flood events. It identifies how different model structures and terrain characteristics affect performance. It also demonstrates the usefulness of validating different models under the same framework.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](http://iopscience.iop.org/article/10.1088/1748-9326/aae014.)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Bernhofen et al. (2018). "A first collective validation of global fluvial flood models for major floods in Nigeria and Mozambique" <i>Environmental Research Letters</i>. (13).
