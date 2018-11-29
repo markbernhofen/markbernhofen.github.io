@@ -3,7 +3,7 @@ title: "Data Buffet Talk: Reseach Data"
 collection: talks
 type: "Talk"
 permalink: /talks/2018-10-23-research-data
-venue: Edward Boyle Library, University of Leeds
+venue: "Edward Boyle Library, University of Leeds"
 date: 2018-10-23
 location: "Leeds, UK"
 ---
