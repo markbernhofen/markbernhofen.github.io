@@ -1,9 +1,9 @@
 ---
 title: "GFP 2018: a first collective validation of global fluvial flood models in Nigeria and Mozambique"
 collection: talks
-type: "Talk"
+type: "Conference Talk"
 permalink: /talks/2018-06-25-collective-validation
-venue: "Deltares"
+venue: "GFP 2018 at Deltares"
 date: 2018-06-25
 location: "Delft, The Netherlands"
 ---
