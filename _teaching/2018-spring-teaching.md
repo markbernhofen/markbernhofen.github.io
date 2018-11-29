@@ -4,7 +4,7 @@ collection: teaching
 type: "Masters course"
 permalink: /teaching/2018-spring-teaching
 venue: "University of Leeds, Civil Engineering"
-date: Spring 2018
+date: 2018-02-01
 location: "Leeds, England"
 ---
 
