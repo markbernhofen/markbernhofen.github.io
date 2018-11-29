@@ -1,0 +1,11 @@
+---
+title: "Water Resource Management"
+collection: teaching
+type: "Masters course"
+permalink: /teaching/2018-spring-teaching
+venue: "University of Leeds, Civil Engineering"
+date: Spring 2018
+location: "Leeds, England"
+---
+
+Teaching assistant for Masters level Water Resource Management module. I helped with course preperation, teaching, and marking.
