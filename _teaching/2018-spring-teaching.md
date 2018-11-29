@@ -8,4 +8,4 @@ date: 2018-02-01
 location: "Leeds, England"
 ---
 
-Teaching assistant for Masters level Water Resource Management module. I helped with course preperation, teaching, and marking.
+Teaching assistant for Masters level Water Resource Management module. I helped with preparing course material, teaching, and marking.
